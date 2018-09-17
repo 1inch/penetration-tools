@@ -14,3 +14,4 @@ Tools repository for penetration tests
 Some articles:
 
 * https://medium.com/loom-network/how-to-secure-your-smart-contracts-6-solidity-vulnerabilities-and-how-to-avoid-them-part-2-730db0aa4834
+* https://blog.zeppelin.solutions/onward-with-ethereum-smart-contract-security-97a827e47702
