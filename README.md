@@ -10,3 +10,7 @@ Tools repository for penetration tests
 * https://github.com/trailofbits/ethersplay
 * https://github.com/ConsenSys/mythril
 * https://ethervm.io/decompile
+
+Some articles:
+
+* https://medium.com/loom-network/how-to-secure-your-smart-contracts-6-solidity-vulnerabilities-and-how-to-avoid-them-part-2-730db0aa4834
