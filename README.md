@@ -1,5 +1,5 @@
 # Penetration Tools
-Tools repository for penetration tools 
+Tools repository for penetration tests 
 
 * http://securify.ch/
 * http://remix.ethereum.org/
